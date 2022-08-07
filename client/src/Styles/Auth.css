@@ -1,0 +1,66 @@
+
+.Card {
+    margin-left: 300px;
+    width: 450px;
+    height: 620px;
+    border-radius: 20px;
+    background-color: #262626;
+}
+
+.Login {
+    color: white;
+    text-align: center;
+}
+
+.Please {
+    color: #909090;
+    font-size: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.Inp {
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 5px;
+    background-color: #262626;
+    color: white;
+}
+
+
+
+.Button {
+    display: flex;
+    justify-content: center;
+}
+
+.Btn {
+    color: white;
+    background-color: #262626;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    margin-top: 40px;
+    height: 50px;
+    width: 160px;
+    font-size: 17px;
+    border-radius: 5px;
+}
+
+.DivImg {
+    width: 45%;
+    margin-top: 20px;
+    margin-left: 27%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Icon {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+    filter: invert(100%) sepia(99%) saturate(0%) hue-rotate(45deg) brightness(105%) contrast(100%);
+}

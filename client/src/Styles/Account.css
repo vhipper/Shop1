@@ -1,0 +1,12 @@
+.Cont {
+    display: flex;
+    flex-direction: column;
+}
+
+.Acc {
+    width: 18%;
+    margin-top: 20px;
+    margin-left: 41%;
+    display: flex;
+    justify-content: space-between;
+}
